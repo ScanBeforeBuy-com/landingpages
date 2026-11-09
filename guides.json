@@ -1,0 +1,690 @@
+{
+  "categories": [
+    {
+      "id": "start",
+      "title": "Start your search",
+      "description": "Choose a car, budget for ownership, and plan the buying process."
+    },
+    {
+      "id": "listing",
+      "title": "Read the listing",
+      "description": "Identify missing details, vague claims, and warning signs before arranging a viewing."
+    },
+    {
+      "id": "documents",
+      "title": "Documents and service history",
+      "description": "Know what records to request and what they can establish."
+    },
+    {
+      "id": "inspection",
+      "title": "Viewing and inspection",
+      "description": "Plan an inspection, a test drive, or a remote purchase."
+    },
+    {
+      "id": "price",
+      "title": "Price and negotiation",
+      "description": "Compare like-for-like listings and make an offer based on evidence."
+    },
+    {
+      "id": "vehicles",
+      "title": "Vehicle types and mileage",
+      "description": "Focus your questions on the age, mileage, and powertrain you are considering."
+    },
+    {
+      "id": "language",
+      "title": "Decode seller wording",
+      "description": "Understand common phrases and what to ask when they appear in an ad."
+    },
+    {
+      "id": "countries",
+      "title": "Country buying guides",
+      "description": "Use a checklist tailored to the market where you are buying."
+    }
+  ],
+  "guides": [
+    {
+      "slug": "australia-used-car-ad-red-flags",
+      "title": "Australia Used Car Ad Red Flags: PPSR, Rego, Roadworthy, and Seller Claims",
+      "group": "countries"
+    },
+    {
+      "slug": "australia-used-car-buying-checklist",
+      "title": "Australia Used Car Buying Checklist: PPSR, Rego, Roadworthy, and Inspection",
+      "group": "countries"
+    },
+    {
+      "slug": "buying-high-mileage-used-car",
+      "title": "Buying a High-Mileage Used Car: What Matters More Than the Number",
+      "group": "vehicles"
+    },
+    {
+      "slug": "buying-old-low-mileage-car",
+      "title": "Buying an Old Car With Low Mileage: What to Check",
+      "group": "vehicles"
+    },
+    {
+      "slug": "buying-used-car-from-dealer",
+      "title": "Buying a Used Car From a Dealer: What to Check Before Signing",
+      "group": "start"
+    },
+    {
+      "slug": "buying-used-car-out-of-area",
+      "title": "Buying a Used Car Out of Area: How to Avoid a Wasted Trip",
+      "group": "inspection"
+    },
+    {
+      "slug": "buying-used-car-private-seller",
+      "title": "Buying a Used Car From a Private Seller: What to Verify",
+      "group": "listing"
+    },
+    {
+      "slug": "buying-used-car-remotely",
+      "title": "Buying a Used Car Remotely: How to Reduce the Risk",
+      "group": "inspection"
+    },
+    {
+      "slug": "buying-used-car-with-rebuilt-title",
+      "title": "Buying a Used Car With a Rebuilt Title: What to Verify",
+      "group": "inspection"
+    },
+    {
+      "slug": "buying-used-car-with-warning-light",
+      "title": "Buying a Used Car With a Warning Light: How to Decide",
+      "group": "inspection"
+    },
+    {
+      "slug": "buying-used-car-without-inspection",
+      "title": "Buying a Used Car Without an Inspection: What You Risk",
+      "group": "inspection"
+    },
+    {
+      "slug": "buying-used-car-without-mechanical-knowledge",
+      "title": "Buying a Used Car Without Mechanical Knowledge: What to Do",
+      "group": "start"
+    },
+    {
+      "slug": "buying-used-car-without-seeing-it",
+      "title": "Buying a Used Car Without Seeing It: What Must Be Verified",
+      "group": "inspection"
+    },
+    {
+      "slug": "buying-used-car-without-service-history",
+      "title": "Buying a Used Car Without Service History: A Safer Process",
+      "group": "documents",
+      "answer": "A car without service records has an evidence gap. Find out which maintenance can be documented, then compare the price and condition against cars with stronger records.",
+      "steps": [
+        "Ask for invoices, workshop details, and the date and mileage of the last documented service.",
+        "Identify major scheduled jobs for the exact engine and ask an independent workshop what it can assess.",
+        "If a seller cannot support a claim about recent work, base your decision on the evidence you do have."
+      ],
+      "related": [
+        "how-to-verify-used-car-service-history",
+        "used-car-documents-checklist",
+        "negotiate-used-car-without-service-history"
+      ],
+      "updated": "2026-11-09"
+    },
+    {
+      "slug": "buying-used-diesel-car",
+      "title": "Buying a Used Diesel Car: What to Check Before You Buy",
+      "group": "vehicles"
+    },
+    {
+      "slug": "buying-used-electric-car",
+      "title": "Buying a Used Electric Car: What to Check Before You Buy",
+      "group": "vehicles",
+      "answer": "Ask for battery condition evidence and verify that the car charges using the equipment you expect to use. Compare the seller’s range claim with your own driving and charging needs.",
+      "steps": [
+        "Ask for the date and method of any battery health test, and whether the result belongs to this VIN.",
+        "Ask which cables come with the car and check that the port opens and connects at the viewing.",
+        "Confirm the warranty terms with the provider and plan a test drive that reflects how you will use the car."
+      ],
+      "related": [
+        "used-car-documents-checklist",
+        "how-to-test-drive-used-car",
+        "buying-used-hybrid-car"
+      ],
+      "updated": "2026-11-09"
+    },
+    {
+      "slug": "buying-used-hybrid-car",
+      "title": "Buying a Used Hybrid Car: Battery, Engine, and System Checks",
+      "group": "vehicles"
+    },
+    {
+      "slug": "buying-used-luxury-car",
+      "title": "Buying a Used Luxury Car: How to Avoid an Expensive Bargain",
+      "group": "vehicles"
+    },
+    {
+      "slug": "canada-used-car-buying-checklist",
+      "title": "Canada Used Car Buying Checklist: Lien, History, Inspection, and Transfer",
+      "group": "countries"
+    },
+    {
+      "slug": "documents-to-request-before-buying-used-car",
+      "title": "Documents to Request Before Buying a Used Car",
+      "group": "documents"
+    },
+    {
+      "slug": "first-time-used-car-buyer-guide",
+      "title": "First-Time Used Car Buyer Guide: A Simple Process to Follow",
+      "group": "start"
+    },
+    {
+      "slug": "hidden-costs-buying-used-car",
+      "title": "Hidden Costs of Buying a Used Car: What the Asking Price Leaves Out",
+      "group": "price"
+    },
+    {
+      "slug": "how-much-to-offer-for-used-car",
+      "title": "How Much Should You Offer for a Used Car?",
+      "group": "price"
+    },
+    {
+      "slug": "how-to-avoid-buying-bad-used-car",
+      "title": "How to Avoid Buying a Bad Used Car",
+      "group": "start"
+    },
+    {
+      "slug": "how-to-buy-car",
+      "title": "How to Buy a Used Car Without Missing the Important Risks",
+      "group": "start",
+      "answer": "Start by shortlisting cars you can afford to own, then verify the listing, arrange a viewing, and agree on payment only after checking the documents and condition.",
+      "steps": [
+        "Set a budget that leaves room for insurance, running costs and the first service.",
+        "Compare cars with the same engine, trim and similar mileage before contacting sellers.",
+        "Use the viewing to test the seller’s strongest claims and record anything that changes your offer."
+      ],
+      "related": [
+        "first-time-used-car-buyer-guide",
+        "used-car-buying-checklist",
+        "hidden-costs-buying-used-car"
+      ],
+      "updated": "2026-11-09"
+    },
+    {
+      "slug": "how-to-buy-used-car-online",
+      "title": "How to Buy a Used Car Online Without Skipping Essential Checks",
+      "group": "start"
+    },
+    {
+      "slug": "how-to-choose-used-car",
+      "title": "How to Choose a Used Car Before You Start Comparing Listings",
+      "group": "start"
+    },
+    {
+      "slug": "how-to-inspect-used-car",
+      "title": "How to Inspect a Used Car Before You Buy It",
+      "group": "inspection",
+      "answer": "Inspect the car in good light, compare its condition with the ad, and record specific findings you can ask an independent inspector to verify.",
+      "steps": [
+        "Walk around the car before the drive and note uneven gaps, damaged wheels or different paint finishes.",
+        "Ask to start the car cold and record any warning lights or noises you notice.",
+        "If the finding could materially change the price or safety of the car, get it assessed before committing."
+      ],
+      "related": [
+        "how-to-test-drive-used-car",
+        "buying-used-car-without-inspection",
+        "used-car-buying-checklist"
+      ],
+      "updated": "2026-11-09"
+    },
+    {
+      "slug": "how-to-negotiate-used-car-price",
+      "title": "How to Negotiate a Used Car Price Without Guessing",
+      "group": "price",
+      "answer": "Anchor your offer to comparable cars and verified costs. A vague claim is a reason to ask for proof; a repair estimate gives you a specific point to discuss.",
+      "steps": [
+        "Compare the same model, engine, trim, mileage and sale type, then note why a listing differs.",
+        "Get a written quote for work you can identify and separate urgent work from optional fixes.",
+        "State the evidence and your offer together, then keep your walk-away price private."
+      ],
+      "related": [
+        "how-much-to-offer-for-used-car",
+        "used-car-negotiation-checklist",
+        "hidden-costs-buying-used-car"
+      ],
+      "updated": "2026-11-09"
+    },
+    {
+      "slug": "how-to-read-used-car-listing",
+      "title": "How to Read a Used Car Listing Without Taking Every Claim at Face Value",
+      "group": "listing",
+      "answer": "Read the ad in three passes: identify the exact vehicle, separate claims from evidence, then list what would change your decision. Treat a photo or seller statement as a lead to verify.",
+      "steps": [
+        "Write down year, mileage, powertrain and asking price as stated, keeping the original units.",
+        "Turn phrases like “recently serviced” into a request for the date, mileage and invoice.",
+        "Compare the listing photos against the description and ask for close-ups of any unexplained damage."
+      ],
+      "related": [
+        "used-car-listing-completeness-checker",
+        "what-does-recently-serviced-mean",
+        "used-car-listing-red-flags"
+      ],
+      "updated": "2026-11-09"
+    },
+    {
+      "slug": "how-to-test-drive-used-car",
+      "title": "How to Test Drive a Used Car Properly",
+      "group": "inspection"
+    },
+    {
+      "slug": "how-to-verify-used-car-service-history",
+      "title": "How to Verify a Used Car's Service History",
+      "group": "documents",
+      "answer": "Check that service entries identify the car, follow a plausible date and mileage sequence, and say what work was done. A stamped book is a useful lead; invoices are more specific.",
+      "steps": [
+        "Make a short timeline from dated invoices and highlight missing years or mileage gaps.",
+        "Ask which scheduled work is due next and whether the seller can show proof of major jobs.",
+        "If an entry is unclear, ask the seller for a copy or permission to confirm the work with the workshop."
+      ],
+      "related": [
+        "what-does-full-service-history-mean",
+        "questions-about-used-car-service-history",
+        "used-car-documents-checklist"
+      ],
+      "updated": "2026-11-09"
+    },
+    {
+      "slug": "india-used-car-buying-checklist",
+      "title": "India Used Car Buying Checklist: RC, Insurance, Loan, Service, and Transfer",
+      "group": "countries"
+    },
+    {
+      "slug": "ireland-used-car-buying-checklist",
+      "title": "Ireland Used Car Buying Checklist: NCT, Registration, Finance, and History",
+      "group": "countries"
+    },
+    {
+      "slug": "negotiate-used-car-needing-brakes",
+      "title": "How to Negotiate a Used Car That Needs Brake Work",
+      "group": "price"
+    },
+    {
+      "slug": "negotiate-used-car-needing-tyres",
+      "title": "How to Negotiate a Used Car That Needs New Tyres",
+      "group": "price"
+    },
+    {
+      "slug": "negotiate-used-car-with-cosmetic-damage",
+      "title": "How to Negotiate a Used Car With Cosmetic Damage",
+      "group": "price"
+    },
+    {
+      "slug": "negotiate-used-car-with-warning-light",
+      "title": "How to Negotiate a Used Car With a Warning Light",
+      "group": "price"
+    },
+    {
+      "slug": "negotiate-used-car-without-service-history",
+      "title": "How to Negotiate a Used Car With No Service History",
+      "group": "price"
+    },
+    {
+      "slug": "new-zealand-used-car-buying-checklist",
+      "title": "New Zealand Used Car Buying Checklist: WOF, Rego, History, and Inspection",
+      "group": "countries"
+    },
+    {
+      "slug": "questions-about-used-car-service-history",
+      "title": "Questions to Ask About a Used Car's Service History",
+      "group": "documents"
+    },
+    {
+      "slug": "questions-to-ask-private-car-seller",
+      "title": "Questions to Ask a Private Car Seller Before You View the Car",
+      "group": "listing"
+    },
+    {
+      "slug": "questions-to-ask-used-car-dealer",
+      "title": "Questions to Ask a Used Car Dealer Before You Sign",
+      "group": "start"
+    },
+    {
+      "slug": "questions-to-ask-used-car-seller",
+      "title": "Questions to Ask a Used Car Seller Before You Travel or Pay",
+      "group": "listing",
+      "answer": "Start with questions that can change whether you travel: what work is due, what faults are known, and which claims can the seller document?",
+      "steps": [
+        "“Can you send the most recent service invoice and tell me what maintenance is due next?”",
+        "“Are there any warning lights, leaks, or faults that only show up when the car is cold?”",
+        "“Can I see the car from a cold start and arrange an independent inspection?”"
+      ],
+      "related": [
+        "questions-to-ask-private-car-seller",
+        "questions-to-ask-used-car-dealer",
+        "how-to-test-drive-used-car"
+      ],
+      "updated": "2026-11-09"
+    },
+    {
+      "slug": "signs-car-seller-is-hiding-something",
+      "title": "Signs a Used Car Seller May Be Hiding Important Information",
+      "group": "listing"
+    },
+    {
+      "slug": "south-africa-used-car-buying-checklist",
+      "title": "South Africa Used Car Buying Checklist: NaTIS, Finance, Inspection, and Transfer",
+      "group": "countries"
+    },
+    {
+      "slug": "suspicious-used-car-listing",
+      "title": "Suspicious Used Car Listing? Check These Signs Before You Respond",
+      "group": "listing"
+    },
+    {
+      "slug": "uae-used-car-buying-checklist",
+      "title": "UAE Used Car Buying Checklist: Registration, Finance, Inspection, and History",
+      "group": "countries"
+    },
+    {
+      "slug": "uk-used-car-advert-red-flags",
+      "title": "UK Used Car Advert Red Flags to Check Before Viewing",
+      "group": "countries"
+    },
+    {
+      "slug": "uk-used-car-buying-checklist",
+      "title": "UK Used Car Buying Checklist: MOT, V5C, History, and Inspection",
+      "group": "countries"
+    },
+    {
+      "slug": "used-car-ad-checker",
+      "title": "Used Car Ad Checker: Review the Advertisement Before You Call",
+      "group": "listing"
+    },
+    {
+      "slug": "used-car-advertisement-red-flags",
+      "title": "Used Car Advertisement Red Flags in Listings and Classified Ads",
+      "group": "listing"
+    },
+    {
+      "slug": "used-car-buying-checklist",
+      "title": "Used Car Buying Checklist: 35 Checks Before You Pay",
+      "group": "start",
+      "answer": "Before you pay, match the car to its documents, verify the seller’s claims, and confirm how any outstanding finance will be handled. Do the free checks before paying for travel or an inspection.",
+      "steps": [
+        "Before contact: save the ad and list the claims worth checking, including mileage, recent work and warranty.",
+        "Before viewing: ask for the VIN, dated service invoices and an explanation for any gap in the records.",
+        "Before paying: match the VIN on the car to the paperwork and resolve any discrepancy in writing."
+      ],
+      "related": [
+        "used-car-documents-checklist",
+        "how-to-inspect-used-car",
+        "questions-to-ask-used-car-seller"
+      ],
+      "updated": "2026-11-09"
+    },
+    {
+      "slug": "used-car-buying-mistakes",
+      "title": "Used Car Buying Mistakes That Create Expensive Problems",
+      "group": "start"
+    },
+    {
+      "slug": "used-car-documents-checklist",
+      "title": "Used Car Documents Checklist: What to Request and Verify",
+      "group": "documents",
+      "answer": "Ask for documents that establish vehicle identity, maintenance and the seller’s authority to sell. Check that the VIN and dates agree across the ad, the car and the records.",
+      "steps": [
+        "An invoice should identify the car and show the work, date, mileage and workshop.",
+        "If warranty is advertised, ask for the coverage, expiry and transfer terms in writing.",
+        "For official status or finance checks, use the relevant service for the market where the car is registered."
+      ],
+      "related": [
+        "how-to-verify-used-car-service-history",
+        "used-car-listing-with-no-vin",
+        "used-car-buying-checklist"
+      ],
+      "updated": "2026-11-09"
+    },
+    {
+      "slug": "used-car-listing-analyzer",
+      "title": "Used Car Listing Analyzer: Check the Ad Before You Contact the Seller",
+      "group": "listing",
+      "answer": "A listing analyzer reads the text and points out wording risks, missing information, and questions to ask. It cannot inspect the vehicle or confirm official records.",
+      "steps": [
+        "Paste the ad URL or the full listing text if the marketplace blocks access.",
+        "Compare each finding with the original wording and ask the seller about material gaps.",
+        "Use the resulting questions to prepare for viewing, then independently verify condition and documents."
+      ],
+      "related": [
+        "used-car-listing-red-flags",
+        "how-to-read-used-car-listing",
+        "used-car-buying-checklist"
+      ],
+      "updated": "2026-11-09"
+    },
+    {
+      "slug": "used-car-listing-completeness-checker",
+      "title": "Used Car Listing Completeness Checker: What the Ad Should Include",
+      "group": "listing"
+    },
+    {
+      "slug": "used-car-listing-missing-information",
+      "title": "Missing Information in a Used Car Listing: What You Need to Ask",
+      "group": "listing"
+    },
+    {
+      "slug": "used-car-listing-red-flags",
+      "title": "Used Car Listing Red Flags You Should Check Before Calling",
+      "group": "listing",
+      "answer": "A warning sign is a specific inconsistency or unverified claim that changes what you should do next. A missing detail warrants a question; pressure to pay while the seller avoids that question warrants a pause.",
+      "steps": [
+        "If the mileage differs across the ad and documents, ask the seller to explain the dates and readings.",
+        "If the ad says “easy fix,” ask for the diagnosis and a written estimate before pricing the car.",
+        "If a seller asks for a deposit before identifying the car or sharing records, wait until you can verify the basics."
+      ],
+      "related": [
+        "how-to-read-used-car-listing",
+        "what-does-easy-fix-mean",
+        "used-car-seller-pressure-tactics"
+      ],
+      "updated": "2026-11-09"
+    },
+    {
+      "slug": "used-car-listing-risk-checker",
+      "title": "Used Car Listing Risk Checker: What to Review Before Contact",
+      "group": "listing"
+    },
+    {
+      "slug": "used-car-listing-too-good-to-be-true",
+      "title": "Used Car Listing Too Good to Be True? How to Check It",
+      "group": "listing"
+    },
+    {
+      "slug": "used-car-listing-with-accident-damage",
+      "title": "Used Car Listing With Accident Damage: What to Verify",
+      "group": "listing"
+    },
+    {
+      "slug": "used-car-listing-with-few-photos",
+      "title": "Used Car Listing With Few Photos: What You Should Request",
+      "group": "listing"
+    },
+    {
+      "slug": "used-car-listing-with-missing-documents",
+      "title": "Used Car Listing With Missing Documents: What to Verify",
+      "group": "documents"
+    },
+    {
+      "slug": "used-car-listing-with-no-service-history",
+      "title": "Used Car Listing With No Service History: How to Assess the Risk",
+      "group": "documents"
+    },
+    {
+      "slug": "used-car-listing-with-no-vin",
+      "title": "Used Car Listing With No VIN: When It Matters and What to Ask",
+      "group": "documents"
+    },
+    {
+      "slug": "used-car-listing-with-warning-light",
+      "title": "Used Car Listing With a Warning Light: What to Ask Before Viewing",
+      "group": "inspection"
+    },
+    {
+      "slug": "used-car-negotiation-checklist",
+      "title": "Used Car Negotiation Checklist: Prepare Before You Make an Offer",
+      "group": "price"
+    },
+    {
+      "slug": "used-car-negotiation-points",
+      "title": "Used Car Negotiation Points Based on Evidence",
+      "group": "price"
+    },
+    {
+      "slug": "used-car-seller-pressure-tactics",
+      "title": "Used Car Seller Pressure Tactics: Do Not Let Urgency Replace Verification",
+      "group": "listing"
+    },
+    {
+      "slug": "what-does-clean-title-mean",
+      "title": "What Does “Clean Title” Mean in a Used Car Listing?",
+      "group": "language"
+    },
+    {
+      "slug": "what-does-easy-fix-mean",
+      "title": "What Does “Easy Fix” Mean in a Used Car Listing?",
+      "group": "language"
+    },
+    {
+      "slug": "what-does-finance-owing-mean",
+      "title": "What Does “Finance Owing” Mean in a Used Car Listing?",
+      "group": "language"
+    },
+    {
+      "slug": "what-does-first-to-see-will-buy-mean",
+      "title": "What Does “First to See Will Buy” Mean in a Used Car Listing?",
+      "group": "language"
+    },
+    {
+      "slug": "what-does-full-service-history-mean",
+      "title": "What Does “Full Service History” Mean in a Used Car Listing?",
+      "group": "language"
+    },
+    {
+      "slug": "what-does-mechanic-special-mean",
+      "title": "What Does “Mechanic Special” Mean in a Used Car Listing?",
+      "group": "language"
+    },
+    {
+      "slug": "what-does-miles-will-go-up-mean",
+      "title": "What Does “Miles Will Go Up” Mean in a Used Car Listing?",
+      "group": "language"
+    },
+    {
+      "slug": "what-does-mot-ready-mean",
+      "title": "What Does “MOT Ready” Mean in a Used Car Advert?",
+      "group": "language"
+    },
+    {
+      "slug": "what-does-must-sell-today-mean",
+      "title": "What Does “Must Sell Today” Mean in a Used Car Listing?",
+      "group": "language"
+    },
+    {
+      "slug": "what-does-needs-tlc-mean",
+      "title": "What Does “Needs TLC” Mean in a Used Car Listing?",
+      "group": "language"
+    },
+    {
+      "slug": "what-does-no-lowballers-mean",
+      "title": "What Does “No Lowballers” Mean in a Used Car Listing?",
+      "group": "language"
+    },
+    {
+      "slug": "what-does-no-time-to-fix-mean",
+      "title": "What Does “No Time to Fix” Mean in a Used Car Listing?",
+      "group": "language"
+    },
+    {
+      "slug": "what-does-no-tyre-kickers-mean",
+      "title": "What Does “No Tyre Kickers” Mean in a Used Car Listing?",
+      "group": "language"
+    },
+    {
+      "slug": "what-does-one-careful-owner-mean",
+      "title": "What Does “One Careful Owner” Mean in a Used Car Listing?",
+      "group": "language"
+    },
+    {
+      "slug": "what-does-one-owner-mean",
+      "title": "What Does “One Owner” Mean in a Used Car Listing?",
+      "group": "language"
+    },
+    {
+      "slug": "what-does-pps-approved-mean",
+      "title": "What Does “PPSR Clear” Mean in a Used Car Listing?",
+      "group": "language"
+    },
+    {
+      "slug": "what-does-price-is-firm-mean",
+      "title": "What Does “Price Is Firm” Mean in a Used Car Listing?",
+      "group": "language"
+    },
+    {
+      "slug": "what-does-rebuilt-title-mean",
+      "title": "What Does “Rebuilt Title” Mean in a Used Car Listing?",
+      "group": "language"
+    },
+    {
+      "slug": "what-does-recently-serviced-mean",
+      "title": "What Does “Recently Serviced” Mean in a Used Car Listing?",
+      "group": "language"
+    },
+    {
+      "slug": "what-does-registration-expired-mean",
+      "title": "What Does “Registration Expired” Mean in a Used Car Listing?",
+      "group": "language"
+    },
+    {
+      "slug": "what-does-roadworthy-mean",
+      "title": "What Does “Roadworthy” Mean in a Used Car Listing?",
+      "group": "language"
+    },
+    {
+      "slug": "what-does-runs-and-drives-mean",
+      "title": "What Does “Runs and Drives” Mean in a Used Car Listing?",
+      "group": "language"
+    },
+    {
+      "slug": "what-does-salvage-title-mean",
+      "title": "What Does “Salvage Title” Mean in a Used Car Listing?",
+      "group": "language"
+    },
+    {
+      "slug": "what-does-selling-for-friend-mean",
+      "title": "What Does “Selling for a Friend” Mean in a Used Car Listing?",
+      "group": "language"
+    },
+    {
+      "slug": "what-does-smog-ready-mean",
+      "title": "What Does “Smog Ready” Mean in a Used Car Listing?",
+      "group": "language"
+    },
+    {
+      "slug": "what-does-sold-as-is-mean",
+      "title": "What Does “Sold As Is” Mean in a Used Car Advertisement?",
+      "group": "language"
+    },
+    {
+      "slug": "what-does-wof-ready-mean",
+      "title": "What Does “WOF Ready” Mean in a New Zealand Used Car Listing?",
+      "group": "language"
+    },
+    {
+      "slug": "what-does-write-off-repaired-mean",
+      "title": "What Does “Write-Off Repaired” Mean in a Used Car Listing?",
+      "group": "language"
+    },
+    {
+      "slug": "what-should-used-car-listing-include",
+      "title": "What Should a Used Car Listing Include Before You Contact the Seller?",
+      "group": "listing"
+    },
+    {
+      "slug": "what-to-look-for-when-buying-used-car",
+      "title": "What to Look for When Buying a Used Car",
+      "group": "start"
+    }
+  ]
+}
