@@ -4,7 +4,7 @@ The public articles are served by the Railway-hosted [ScanBeforeBuy website](htt
 
 ## Source files
 
-- `guides.json` defines the editorial catalog, topic groups, related links and original quick answers for priority guides.
+- `guides.json` defines the editorial catalog, topic groups, related links and original quick answers and practical checklists for 22 priority guides.
 - `index.html` is a portable directory linking to the canonical articles on ScanBeforeBuy.
 - The four ZIP files are the original delivery archives. The website has a checked-in copy of their guide HTML and applies the current catalog at render time.
 
@@ -15,6 +15,6 @@ The public articles are served by the Railway-hosted [ScanBeforeBuy website](htt
 3. Commit the synchronized catalog to `website`. Railway deploys the website from `main`; committing to this repository alone does not deploy production.
 4. Check the live guide, its canonical URL and `/sitemap.xml` after deployment.
 
-Use `updated` only for a substantive editorial change and record the actual date. Keep answers useful on their own. State what a listing can establish, identify the documents or checks still needed, and link to specific next steps. Keep the original article at its clean, self-canonical production URL.
+Use `updated` only for a substantive editorial change and record the actual date. The current catalog has tailored, evidence-focused answers and buyer checklists on 22 priority guides, including seller-phrase pages that previously shared repetitive wording. Keep answers useful on their own. State what a listing can establish, identify the documents or checks still needed, and link to specific next steps. Keep the original article at its clean, self-canonical production URL.
 
 The scanner analyzes the listing text. It does not perform vehicle inspections or query official vehicle registries.

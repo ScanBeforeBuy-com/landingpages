@@ -544,7 +544,14 @@
     {
       "slug": "what-does-easy-fix-mean",
       "title": "What Does “Easy Fix” Mean in a Used Car Listing?",
-      "group": "language"
+      "group": "language",
+      "answer": "“Easy fix” does not explain the fault, the repair, or its cost. Treat it as an unverified diagnosis until a workshop identifies the cause and confirms what else may be affected.",
+      "steps": [
+        "Ask for the exact symptoms, warning lights, fault codes, and any written diagnosis.",
+        "Get an independent repair estimate that includes labour, parts, and related checks.",
+        "Arrange an inspection before agreeing to buy, and price the car on its present condition."
+      ],
+      "updated": "2026-11-10"
     },
     {
       "slug": "what-does-finance-owing-mean",
@@ -554,7 +561,14 @@
     {
       "slug": "what-does-first-to-see-will-buy-mean",
       "title": "What Does “First to See Will Buy” Mean in a Used Car Listing?",
-      "group": "language"
+      "group": "language",
+      "answer": "“First to see will buy” is a seller’s prediction, not evidence that the car is in demand or that another buyer has committed. Do not let urgency replace checks on identity, condition, paperwork, and payment.",
+      "steps": [
+        "Ask whether anyone has actually made an offer and whether a deposit or contract exists.",
+        "Arrange a viewing and inspect the vehicle and documents before sending money.",
+        "Set a clear limit in advance and walk away if the seller blocks reasonable checks."
+      ],
+      "updated": "2026-11-10"
     },
     {
       "slug": "what-does-full-service-history-mean",
@@ -579,7 +593,14 @@
     {
       "slug": "what-does-must-sell-today-mean",
       "title": "What Does “Must Sell Today” Mean in a Used Car Listing?",
-      "group": "language"
+      "group": "language",
+      "answer": "“Must sell today” creates urgency but says nothing about the car’s condition or the reason for the deadline. A rushed sale can leave too little time to verify the vehicle and the seller.",
+      "steps": [
+        "Ask for the seller’s reason for the deadline and verify their identity and authority to sell.",
+        "Check the VIN, ownership documents, service records, and any finance or lien information available locally.",
+        "Do not pay or sign until you have inspected the car and confirmed the transfer process."
+      ],
+      "updated": "2026-11-10"
     },
     {
       "slug": "what-does-needs-tlc-mean",
@@ -594,22 +615,50 @@
     {
       "slug": "what-does-no-time-to-fix-mean",
       "title": "What Does “No Time to Fix” Mean in a Used Car Listing?",
-      "group": "language"
+      "group": "language",
+      "answer": "“No time to fix” tells you why the seller has not repaired something, but it gives no evidence about the fault. Make the purchase decision using a diagnosis and repair estimate, not the explanation.",
+      "steps": [
+        "Ask when the problem began and whether the seller has tried any repair.",
+        "Request workshop notes, invoices, fault codes, and a written estimate for the unfinished work.",
+        "If the seller cannot document the issue, treat its scope and cost as unknown until inspected."
+      ],
+      "updated": "2026-11-10"
     },
     {
       "slug": "what-does-no-tyre-kickers-mean",
       "title": "What Does “No Tyre Kickers” Mean in a Used Car Listing?",
-      "group": "language"
+      "group": "language",
+      "answer": "“No tyre kickers” is a request for serious buyers, not a reason to skip questions or an inspection. A legitimate seller should still allow a reasonable viewing and document checks.",
+      "steps": [
+        "Send concise questions about the car’s history, condition, and available records before arranging a visit.",
+        "Agree in advance whether an independent inspection or test drive is possible.",
+        "Leave if the seller demands payment before verification or refuses reasonable checks."
+      ],
+      "updated": "2026-11-10"
     },
     {
       "slug": "what-does-one-careful-owner-mean",
       "title": "What Does “One Careful Owner” Mean in a Used Car Listing?",
-      "group": "language"
+      "group": "language",
+      "answer": "“One careful owner” describes the seller’s view of the ownership, not a verified maintenance record. Confirm the ownership history separately and judge care from dated service records and the car’s condition.",
+      "steps": [
+        "Check the registration documents and available official ownership history for the country.",
+        "Compare service invoices and inspection records with the mileage and dates in the advert.",
+        "Inspect wear on the steering wheel, pedals, seats, tyres, and controls for consistency with the claimed use."
+      ],
+      "updated": "2026-11-10"
     },
     {
       "slug": "what-does-one-owner-mean",
       "title": "What Does “One Owner” Mean in a Used Car Listing?",
-      "group": "language"
+      "group": "language",
+      "answer": "“One owner” is a specific history claim, but it does not show how the car was maintained or used. Verify the ownership record and assess the car’s maintenance and condition on their own evidence.",
+      "steps": [
+        "Ask for registration documents and confirm what counts as an owner in the relevant vehicle record.",
+        "Check whether the seller, registered keeper, and person named on the paperwork match.",
+        "Review service history, mileage records, and inspection findings before treating the history as a benefit."
+      ],
+      "updated": "2026-11-10"
     },
     {
       "slug": "what-does-pps-approved-mean",
@@ -624,7 +673,14 @@
     {
       "slug": "what-does-rebuilt-title-mean",
       "title": "What Does “Rebuilt Title” Mean in a Used Car Listing?",
-      "group": "language"
+      "group": "language",
+      "answer": "A rebuilt title generally indicates that a vehicle previously had a serious title or damage status and was later cleared for road use under local rules. The label alone does not establish the quality or safety of the repairs.",
+      "steps": [
+        "Look up the title history and the original reason the vehicle was branded, where records are available.",
+        "Have a qualified independent inspector check structural repairs, airbags, electronics, alignment, and water damage.",
+        "Ask the insurer and local registration authority how the title affects cover, inspection, and resale."
+      ],
+      "updated": "2026-11-10"
     },
     {
       "slug": "what-does-recently-serviced-mean",
@@ -639,7 +695,14 @@
     {
       "slug": "what-does-roadworthy-mean",
       "title": "What Does “Roadworthy” Mean in a Used Car Listing?",
-      "group": "language"
+      "group": "language",
+      "answer": "“Roadworthy” may refer to a particular inspection or certificate, depending on the country. It is not a complete assurance about future reliability or every mechanical system.",
+      "steps": [
+        "Ask which inspection or certificate the seller means and request the document with its date and scope.",
+        "Check the issuing authority’s validity rules and whether the certificate transfers to a new owner.",
+        "Arrange your own inspection for condition and wear beyond the certificate’s checks."
+      ],
+      "updated": "2026-11-10"
     },
     {
       "slug": "what-does-runs-and-drives-mean",
@@ -649,7 +712,14 @@
     {
       "slug": "what-does-salvage-title-mean",
       "title": "What Does “Salvage Title” Mean in a Used Car Listing?",
-      "group": "language"
+      "group": "language",
+      "answer": "A salvage title usually signals that an insurer or authority classified the vehicle as a total loss under local rules. It does not describe the full damage or prove that later repairs made the car safe.",
+      "steps": [
+        "Obtain the original damage records, photographs, and repair invoices if available.",
+        "Check local rules for whether the vehicle can be registered, insured, and driven in its current status.",
+        "Arrange an independent structural and safety inspection before considering a purchase."
+      ],
+      "updated": "2026-11-10"
     },
     {
       "slug": "what-does-selling-for-friend-mean",
